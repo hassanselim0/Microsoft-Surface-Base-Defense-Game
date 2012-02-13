@@ -1,0 +1,25 @@
+D:\My C# & XNA\Surface Bachelor Project\Content\bin\x86\Debug\Content\Turret.xnb
+D:\My C# & XNA\Surface Bachelor Project\Content\bin\x86\Debug\Content.exe
+D:\My C# & XNA\Surface Bachelor Project\Content\bin\x86\Debug\Content.pdb
+D:\My C# & XNA\Surface Bachelor Project\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\My C# & XNA\Surface Bachelor Project\Content\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\My C# & XNA\Surface Bachelor Project\Content\obj\x86\Debug\Content.exe
+D:\My C# & XNA\Surface Bachelor Project\Content\obj\x86\Debug\Content.pdb
+D:\My C# & XNA\Surface Bachelor Project\Content\bin\x86\Debug\Content\Projectile.xnb
+D:\My C# & XNA\Surface Bachelor Project\Content\bin\x86\Debug\Content\BaseH.xnb
+D:\My C# & XNA\Surface Bachelor Project\Content\bin\x86\Debug\Content\BaseV.xnb
+D:\My C# & XNA\Surface Bachelor Project\Content\bin\x86\Debug\Content\Projectile Trail.xnb
+D:\My C# & XNA\Surface Bachelor Project\Content\bin\x86\Debug\Content\Turret Bar Back.xnb
+D:\My C# & XNA\Surface Bachelor Project\Content\bin\x86\Debug\Content\Turret Bar Front.xnb
+D:\My C# & XNA\Surface Bachelor Project\Content\bin\x86\Debug\Content\Diagonal Strip.xnb
+D:\My C# & XNA\Surface Bachelor Project\Content\bin\x86\Debug\Content\Scatter Bomb.xnb
+D:\My C# & XNA\Surface Bachelor Project\Content\bin\x86\Debug\Content\Shoot.xnb
+D:\My C# & XNA\Surface Bachelor Project\Content\bin\x86\Debug\Content\Explode.xnb
+D:\My C# & XNA\Surface Bachelor Project\Content\bin\x86\Debug\Content\fire.xnb
+D:\My C# & XNA\Surface Bachelor Project\Content\bin\x86\Debug\Content\ParticleEffect.xnb
+D:\My C# & XNA\Surface Bachelor Project\Content\bin\x86\Debug\Content\GameFont.xnb
+D:\My C# & XNA\Surface Bachelor Project\Content\bin\x86\Debug\Content\fireworks.xnb
+D:\My C# & XNA\Surface Bachelor Project\Content\bin\x86\Debug\Content\fireworks sound.xnb
+D:\My C# & XNA\Surface Bachelor Project\Content\bin\x86\Debug\Content\Hit.xnb
+D:\My C# & XNA\Surface Bachelor Project\Content\bin\x86\Debug\Content\Semi Alpha.xnb
+D:\My C# & XNA\Surface Bachelor Project\Content\bin\x86\Debug\Content\Horizontal Strip.xnb

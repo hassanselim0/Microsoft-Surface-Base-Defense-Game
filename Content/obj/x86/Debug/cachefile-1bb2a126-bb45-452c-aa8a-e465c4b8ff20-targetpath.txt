@@ -1,0 +1,19 @@
+Content\Turret.xnb
+Content\Projectile.xnb
+Content\BaseH.xnb
+Content\BaseV.xnb
+Content\Projectile Trail.xnb
+Content\Turret Bar Back.xnb
+Content\Turret Bar Front.xnb
+Content\Diagonal Strip.xnb
+Content\Scatter Bomb.xnb
+Content\fire.xnb
+Content\fireworks.xnb
+Content\Semi Alpha.xnb
+Content\Horizontal Strip.xnb
+Content\Shoot.xnb
+Content\Explode.xnb
+Content\fireworks sound.xnb
+Content\Hit.xnb
+Content\ParticleEffect.xnb
+Content\GameFont.xnb
