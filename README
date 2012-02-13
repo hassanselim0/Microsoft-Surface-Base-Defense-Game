@@ -1,1 +1,9 @@
-Readme?
+This is the code for my Bachelor Project, if you happen to have a first-gen Microsoft Surface try it and tell me what you think of it :)
+
+There are 2 solutions here:
+- A Visual Studio 2008 solution that has an XNA 3.1 Game Project, this is just for compiling the content into .XNB files, you can ignore this and just use the included .XNB files
+- A Visual Studio 2010 solution that has 2 projects, a C# Library Project containing a slightly modified version of Farseer Physics Engine 3.3.1, and the a Surface XNA application project which is the main project.
+
+note: The Visual Studio 2010 solution can easily be modified to run on Visual Studio 2008.
+
+If you want to install the Surface SDK on Windows 7, search you can modify the .msi installer using "Orca", and if you want to install the SDK on a 64-bit OS, you'll have to modify all it's .NET assemblies so that it uses the suitable version, search on google to get the exact procedure.
